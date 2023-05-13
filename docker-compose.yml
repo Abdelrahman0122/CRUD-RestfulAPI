@@ -1,0 +1,10 @@
+version: "3"
+services:
+  frontend:
+    build: ./cloud
+    ports:
+      - "3000:3000"
+  backend:
+    build: ./Dockerize-RESTful-API
+    ports:
+      - "5000:5000"
