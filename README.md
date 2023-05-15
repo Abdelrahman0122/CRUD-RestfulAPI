@@ -74,7 +74,5 @@ The following API endpoints are available:
 - `PUT /Persons/:id`: Update an existing user.
 - `DELETE /Persons/:id`: Delete a user by ID.
 
-## Contributing
 
-Contributions are welcome! Feel free to open a pull request or file an issue.
 
